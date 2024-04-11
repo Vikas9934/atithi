@@ -1,0 +1,24 @@
+.DeliveryCont{
+    background-color:  #2a2b2f;
+width: 100%;
+height: 100%;
+padding: 20px 10px;
+color: #fff;
+font-weight: 200;
+}
+
+.laundryvan{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.laundryvantext{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+ padding: 20px 0px;
+}
