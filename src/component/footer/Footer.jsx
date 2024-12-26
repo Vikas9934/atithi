@@ -87,7 +87,7 @@ const Footer = () => {
           </div>
           <div class="footer-call-to-action">
             <h2 class="footer-call-to-action-title"> You Call Us</h2>
-            <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:7070110600" target="_self"> 7070110600 </a></p>
+            <p class="footer-call-to-action-link-wrapper"> <a class="footer-call-to-action-link" href="tel:94314 44535" target="_self"> 7070110600 </a></p>
           </div>
         </div>
         <div class="footer-social-links"> <svg class="footer-social-amoeba-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 54">
