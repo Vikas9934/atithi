@@ -32,11 +32,11 @@ function App() {
 </a> */}
 
 
-<a href="tel:7070110600" class="btn-whatsapp-pulse btn-whatsapp-pulse-border">
+<a href="tel:94314 44535" class="btn-whatsapp-pulse btn-whatsapp-pulse-border">
 <i class="fa-solid fa-phone"></i>
 </a>
 
-<a href="https://wa.me/7070110600/?text=hii atithi laundry" class="btn-whatsapp-pulse">
+<a href="https://wa.me/94314 44535/?text=hii atithi laundry" class="btn-whatsapp-pulse">
 	<i class="fab fa-whatsapp"></i>
 </a>
 
